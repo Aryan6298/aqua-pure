@@ -289,7 +289,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
             color: #00d4ff;
             text-decoration: underline;
           }
-        `})]}),bs=()=>(0,M.jsxs)(M.Fragment,{children:[(0,M.jsx)(`a`,{href:`https://wa.me/917693039555`,className:`whatsapp-float`,target:`_blank`,rel:`noopener noreferrer`,children:(0,M.jsx)(`img`,{src:`https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg`,alt:`WhatsApp`,className:`whatsapp-icon`})}),(0,M.jsx)(`style`,{children:`
+        `})]}),bs=()=>(0,M.jsxs)(M.Fragment,{children:[(0,M.jsx)(`a`,{href:`https://wa.me/919893132012`,className:`whatsapp-float`,target:`_blank`,rel:`noopener noreferrer`,children:(0,M.jsx)(`img`,{src:`https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg`,alt:`WhatsApp`,className:`whatsapp-icon`})}),(0,M.jsx)(`style`,{children:`
           .whatsapp-float {
             position: fixed;
             bottom: 20px;
